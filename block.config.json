@@ -1,0 +1,17 @@
+{
+  "name": "25Aprg",
+  "type": "containerized",
+  "blockId": "WjRAIakEb_N9yV-Vmt9Sd",
+  "source": {
+    "https": "https://github.com/grgshiji/25Aprg.git",
+    "ssh": "git@github.com:grgshiji/25Aprg.git",
+    "branch": "block_25Aprg"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "nodejs"
+}
